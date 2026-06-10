@@ -29,5 +29,5 @@ I am a passionate Software Engineering student focused on building high-performa
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [https://www.linkedin.com/in/oleh-hospodarysko-09972b415/]
+* **LinkedIn:** https://www.linkedin.com/in/oleh-hospodarysko-09972b415/
 * **Email:** hospodaryskooleh@gmail.com
