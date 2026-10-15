@@ -19,6 +19,7 @@ I am a passionate Software Engineering student focused on building high-performa
 * **[Chat-Platform-MVP](https://github.com/TNTU-F2-Software-Engineering/Oleh-HOSPODARYSKO-SE201-2025-2026)**
   An academic backend infrastructure for a real-time messaging ecosystem. Built with clean architecture, strict data validation, and covered by automated edge-case unit tests.
 * **[InterviewBookingSystem](https://github.com/WhatTheDuck08/InterviewBookingSystem)**
+  Desktop scheduling application for booking interview slots with a recruiter. Built with object-oriented C++ and Qt Widgets, with JSON-based persistence and manual test scenarios covering booking, cancellation, day navigation and state restoration after restart.
 
 ---
 
